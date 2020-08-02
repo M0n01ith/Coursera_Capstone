@@ -7,4 +7,5 @@ This image shows the neighbourhoods of Toronto:
 
 This image shows the neighbourhoods of Toronto clustered by KMeans
 
+![Toronto2](https://user-images.githubusercontent.com/65531765/89123998-e433a800-d4d3-11ea-95d2-d3260178736a.png)
 
